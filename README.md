@@ -1,4 +1,4 @@
-# Proyecto: Top 10 Álbumes Musicales por Género
+# Proyecto: Top 10 Álbumes Musicales por Género aleatorio
 
 Este proyecto muestra los 10 álbumes más populares de un género musical aleatorio utilizando la API de iTunes. Está desarrollado en PHP y utiliza técnicas de programación orientada a la web, como la separación de responsabilidades y el uso de plantillas.
 
